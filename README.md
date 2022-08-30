@@ -1,13 +1,12 @@
-# Social Media API
+# React Portfolio
 
 ## Description
 
-- [APP VIDEO](https://drive.google.com/file/d/1Koe3uD5sRWTUeDS9J-8Pbx7HzIgN7yDb/view)
-- [PROJECT REPO](https://github.com/Ajimoto/SocialMedia-API)
+- [PROJECT REPO](https://github.com/Ajimoto/React-Profile)
 
-This application uses Mongo DB and mongoose to provide full CRUD utility for the a social media database.
+This is my Portfolio built using React and uses React Routes. The css was created using Tailwind. Deployed on Netlify.
 
-Deployed Application: NA
+Deployed Application: (https://the-great-ajimoto-site.netlify.app)
 
 ## Table of Contents
 
@@ -20,16 +19,16 @@ Deployed Application: NA
 
 To get started in the development environment, follow the following steps:
 
-1.  Clone this the repo found at this [link](https://github.com/Ajimoto/SocialMedia-API)
+1.  Clone this the repo found at this [link](https://github.com/Ajimoto/React-Profile)
 2.  Open a terminal and navigate to the root directory of the project
 3.  Run 'npm i' to get the project dependencies
-4.  Run 'node index.js' to start the server
+4.  Run 'npm run start' to start the server
 
 ## Usage
 
-This application is for demonstration use only. The video is linked for visual usage.
+This application is for demonstration use only. I wanted to display and practice skills on react and tailwind.
 
-![Alt text](<./images/Screen Shot 2022-08-26 at 3.03.12 PM.png>)
+![Alt text](<./public/Screen%20Shot%202022-08-30%20at%202.03.38%20AM%20(2).png>)
 
 ## Credits
 
